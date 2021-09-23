@@ -7,8 +7,11 @@ This project was is my first react app with massive insight from the amazing [De
 ## Todo
 
 [] Active playing song highlight
+
 [] Shuffle play
+
 [] volume control
+
 [] 15 SECS fast forward or backward
 
 ## Available Scripts
