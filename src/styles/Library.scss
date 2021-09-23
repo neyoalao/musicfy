@@ -2,11 +2,13 @@
   position: fixed;
   top: 0;
   left: 0;
-  width: 20rem;
+  width: 18rem;
   background-color: coral;
   box-shadow: 2px 2px 50px rgb(142, 142, 142);
   overflow: scroll;
   height: 100%;
+  transform: translateX(-100%);
+  transition: all 0.5s ease;
 
   h1 {
     padding: 2rem;
@@ -40,9 +42,13 @@
   }
 }
 
+.active-library {
+  transform: translateX(0%);
+  opacity: 1;
+}
+
 @media screen and (max-width: 768px) {
   .library {
-    opacity: 0;
-    transform: translateX(-100%);
+    width: 100%;
   }
 }
