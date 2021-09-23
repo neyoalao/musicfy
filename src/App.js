@@ -6,13 +6,11 @@ import { useState, useRef } from "react";
 import Library from "./components/Library";
 import Nav from "./components/nav";
 function App() {
-  // console.log(musics()[0]);
-
   // references
   const audioRef = useRef(null);
 
   //states
-  const [songs, setSongs] = useState(musics());
+  const [songs] = useState(musics());
   const [currentSong, setCurrentSong] = useState(songs[5]);
   const [isPlaying, setIsPlaying] = useState(false);
   const [libraryStatus, setLibraryStatus] = useState(false);
