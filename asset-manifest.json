@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/musicfy/static/css/main.cc66c25d.chunk.css",
-    "main.js": "/musicfy/static/js/main.2a128712.chunk.js",
-    "main.js.map": "/musicfy/static/js/main.2a128712.chunk.js.map",
+    "main.css": "/musicfy/static/css/main.375a3477.chunk.css",
+    "main.js": "/musicfy/static/js/main.83937907.chunk.js",
+    "main.js.map": "/musicfy/static/js/main.83937907.chunk.js.map",
     "runtime-main.js": "/musicfy/static/js/runtime-main.0b723118.js",
     "runtime-main.js.map": "/musicfy/static/js/runtime-main.0b723118.js.map",
-    "static/js/2.8ac903fc.chunk.js": "/musicfy/static/js/2.8ac903fc.chunk.js",
-    "static/js/2.8ac903fc.chunk.js.map": "/musicfy/static/js/2.8ac903fc.chunk.js.map",
+    "static/js/2.412a41f4.chunk.js": "/musicfy/static/js/2.412a41f4.chunk.js",
+    "static/js/2.412a41f4.chunk.js.map": "/musicfy/static/js/2.412a41f4.chunk.js.map",
     "index.html": "/musicfy/index.html",
-    "static/css/main.cc66c25d.chunk.css.map": "/musicfy/static/css/main.cc66c25d.chunk.css.map",
-    "static/js/2.8ac903fc.chunk.js.LICENSE.txt": "/musicfy/static/js/2.8ac903fc.chunk.js.LICENSE.txt"
+    "static/css/main.375a3477.chunk.css.map": "/musicfy/static/css/main.375a3477.chunk.css.map",
+    "static/js/2.412a41f4.chunk.js.LICENSE.txt": "/musicfy/static/js/2.412a41f4.chunk.js.LICENSE.txt",
+    "static/media/headphones.7ce75034.svg": "/musicfy/static/media/headphones.7ce75034.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0b723118.js",
-    "static/js/2.8ac903fc.chunk.js",
-    "static/css/main.cc66c25d.chunk.css",
-    "static/js/main.2a128712.chunk.js"
+    "static/js/2.412a41f4.chunk.js",
+    "static/css/main.375a3477.chunk.css",
+    "static/js/main.83937907.chunk.js"
   ]
 }
