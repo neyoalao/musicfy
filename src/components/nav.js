@@ -1,4 +1,5 @@
 import React from "react";
+import headphone from "../images/headphones.svg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMusic } from "@fortawesome/free-solid-svg-icons";
 
@@ -10,10 +11,10 @@ const Nav = ({ setLibraryStatus, libraryStatus }) => {
 
   return (
     <nav>
-      <h1>Waves</h1>
+      <h1>Musicfy</h1>
       <button className={libraryStatus ? "library-active" : ""} onClick={openLibraryHandler}>
-        Library
-        <FontAwesomeIcon icon={faMusic}></FontAwesomeIcon>
+        Library &nbsp;
+        <img src={headphone} alt="rubbish" />
       </button>
     </nav>
   );

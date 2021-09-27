@@ -1,3 +1,7 @@
+# The live Demo of this project is reachable @ [neyoalao.github.io/musicfy](neyoalao.github.io/musicfy)
+
+![preview](src/images/preview.png)
+
 # Musicfy App (A web music player for [ChILLhOP mUSICS](https://chillhop.com/)
 
 This project was is my first react app with massive insight from the amazing [Dev Ed](https://github.com/developedbyed/music-player-react).
@@ -13,6 +17,8 @@ This project was is my first react app with massive insight from the amazing [De
 [] volume control
 
 [] 15 SECS fast forward or backward
+
+[] visibly attribute chillhop (with love from chillhop)
 
 ## Available Scripts
 
